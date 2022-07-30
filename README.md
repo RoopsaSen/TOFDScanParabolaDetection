@@ -8,6 +8,5 @@ Sample Output using Hough Transform variants:
 
 
 Sample Output using Mask RCNN:
-
 ![output](https://github.com/RoopsaSen/TOFDScanParabolaDetection/blob/main/output2.png?raw=true)
 
